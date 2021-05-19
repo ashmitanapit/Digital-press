@@ -1,0 +1,109 @@
+.background{
+  background-color: #fffeb5;
+opacity: 1;
+background-image: linear-gradient(45deg, #ffffff 50%, #fffeb5 50%);
+background-size: 4px 4px;
+}
+
+.container{
+  margin: 0 100px;
+  
+ 
+}
+.topnav img{
+  width: 500px;
+  height: 150px;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+}
+
+.column{
+  width: 100%;
+  padding: 10px;
+
+}
+/*.column {
+  float: right;
+  width: 20%;
+  padding: 10px;
+  height: 50%; 
+}*/
+.nav {
+  background-color: #0F5205 ;
+  overflow: hidden;
+}
+
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 12px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+
+  background-color: #ddd;
+  color: black;
+}
+
+
+.text{
+  font-size: 20px;
+}
+
+.banners img{
+ 
+  width: 100%;
+  height: 300px;
+}
+
+.description {
+  margin: 0 100px;
+  position: relative;
+  text-align: center;
+  color: white;
+
+}
+.centered {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.about_us{
+  float: right;
+
+}
+.button {
+  width: 200px;
+  height: 40px;
+  font-size:12;
+  background-color: #0F5205 ;
+  color: white;
+
+}
+
+.column img{
+  width: 100%;
+  height: 150px;
+}
+
+hr{
+  height: 2px;
+  background-color:  #0F5205;
+
+}
+ 
+/*.panal_box{
+  margin: 0 100px;
+}*/
+.box_header{
+  background-color: #ddd;
+
+}
